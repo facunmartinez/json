@@ -2,27 +2,33 @@
     {
         "name": "Comestibles",
         "imgSrc": "img/Comestibles.png",
-        "href": "cart.html"
+        "href": "cart.html",
+        "css": "grid-element"
     },
     {
         "name": "Limpieza",
         "imgSrc": "img/Limpieza.png",
-        "href": "inicio.html"
+        "href": "inicio.html",
+        "css": "grid-element"
     },
     {
         "name": "Higiene",
-        "imgSrc": "img/Higiene.png"
+        "imgSrc": "img/Higiene.png",
+        "css": "grid-element"
     },
     {
         "name": "Bebidas",
-        "imgSrc": "img/Bebidas.png"
+        "imgSrc": "img/Bebidas.png",
+        "css": "grid-element"
     },
     {
         "name": "Congelados",
-        "imgSrc": "img/Congelados.png"
+        "imgSrc": "img/Congelados.png",
+        "css": "grid-element"
     },
     {
         "name": "Animales",
-        "imgSrc": "img/Animales.png"
+        "imgSrc": "img/Animales.png",
+        "css": "grid-element"
     }
 ]
