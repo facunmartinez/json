@@ -1,11 +1,13 @@
 [
     {
         "name": "Comestibles",
-        "imgSrc": "img/Comestibles.png"
+        "imgSrc": "img/Comestibles.png",
+        "href": "cart.html"
     },
     {
         "name": "Limpieza",
-        "imgSrc": "img/Limpieza.png"
+        "imgSrc": "img/Limpieza.png",
+        "href": "inicio.html"
     },
     {
         "name": "Higiene",
