@@ -1,0 +1,38 @@
+[
+    {
+        "nombre" : "Fideo moñas ADRIA 500g",
+        "precio" : 49,
+        "img" : "images/fideos2.jpg"
+    },
+    {
+        "nombre" : "Fideo noseque nosecuanto",
+        "precio" : 51,
+        "img" : "images/fideos.jpg"
+    },
+    {
+        "nombre" : "Enlatado grano de choclo ODERICH",
+        "precio" : 38,
+        "img" : "images/710460.jpg"
+    },
+    {
+        "nombre" : "Oregano del bueno vaya a SABER",
+        "precio" : 76,
+        "img" : "images/oregano.jpg"
+    },
+    {
+        "nombre" : "Leche ultrapausterizada CONAPROLE 1lt",
+        "precio" : 43,
+        "img" : "images/leche.jpg"
+    },
+    {
+        "nombre" : "Leche larga vida CONAPROLE 1lt",
+        "precio" : 54,
+        "img" : "images/largavida.jpg"
+    },
+    {
+        "nombre" : "COLET 250ml",
+        "precio" : 32,
+        "img" : "images/colet.jpg"
+    }
+]
+
