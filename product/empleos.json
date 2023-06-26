@@ -1,0 +1,52 @@
+[
+    {
+        "titulo" : "Cocinero",
+        "ubicacion" : "Montevideo",
+        "fecha" : "25/6/2023",
+        "descripcion" : "Buscamos cocineros para nuestro staff. Contar con experiencia en eventos, actitud proactiva y disponibilidad horaria.",
+        "correo" : "rrhhglamburgeruy@gmail.com"
+    },
+    {
+        "titulo" : "Fiambrero/a",
+        "ubicacion" : "Pinamar",
+        "fecha" : "25/6/2023",
+        "descripcion" : "Imperio del Este busca: Fiabrero/a. Excluyente, responsabilidad y compromiso con el equipo. Experiencia y referencias laborales comprobables. Disponibilidad horaria.",
+        "correo" : "postulacionesimperiodeleste@gmail.com ASUNTO:FIAMBRERO/A"
+    },
+    {
+        "titulo" : "Vendedor de repuestos",
+        "ubicacion" : "Montevideo",
+        "fecha" : "25/6/2023",
+        "descripcion" : "Sisler sa. busca personal para suc. Montevideo. Manejo de despieces, conocimiento en mecánica, libreta de conducir, manejo de pc, experiencia en repuestos.",
+        "correo" : "trabajo@sislersa.com"
+    },
+    {
+        "titulo" : "Cajero/a",
+        "ubicacion" : "Ciudad de la costa",
+        "fecha" : "25/6/2023",
+        "descripcion" : "Supermercado El Grillito busca cajero/a para turno de la tarde, jornada laboral de 7 hrs, persona proactiva, responsable, mayor de 25 años.",
+        "correo" : "elgrillito@adinet.com.uy"
+    },
+    {
+        "titulo" : "Educadoras sociales",
+        "ubicacion" : "Montevideo",
+        "fecha" : "25/6/2023",
+        "descripcion" : "Buscamos educadoras sociales para residencial. Si contas con diploma y disponibilidad horaria no dudes en enviarnos tu CV",
+        "correo" : "seguirviviendo1@gmail.com"
+    },
+    {
+        "titulo" : "Chofer",
+        "ubicacion" : "Montevideo",
+        "fecha" : "25/6/2023",
+        "descripcion" : "Viento Fortuna busca, choferes con libreta profesional categoría C y D, experiencia en semirremolque y/o zorra, buena presencia, disponibilidad horaria para viajar al interior del país y referencias comprobables.",
+        "correo" : "andres.delgado@vientofortuna.com ASUNTO Ref. CHOFERES"
+    },
+    {
+        "titulo" : "Mozo",
+        "ubicacion" : "Montevideo",
+        "fecha" : "25/6/2023",
+        "descripcion" : "Cucina Milajó selecciona mozo con experiencia",
+        "correo" : "milajo08@gmail.com"
+    }
+
+]
